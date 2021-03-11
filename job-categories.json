@@ -1,0 +1,672 @@
+[
+  {
+    "label": "Administración pública",
+    "value": "administracion-publica",
+    "subcategories": [
+      {
+        "label": "Administraciones europeas",
+        "value": "administraciones-europeas"
+      },
+      {
+        "label": "Administración autonómica",
+        "value": "administracion-autonomica"
+      },
+      {
+        "label": "Administración del estado",
+        "value": "administracion-del-estado"
+      },
+      {
+        "label": "Administración local",
+        "value": "administracion-local"
+      },
+      {
+        "label": "Cuerpos de seguridad",
+        "value": "cuerpos-de-seguridad"
+      },
+      {
+        "label": "Empresas públicas",
+        "value": "empresas-publicas"
+      }
+    ]
+  },
+  {
+    "label": "Administración de empresas",
+    "value": "administracion-de-empresas",
+    "subcategories": [
+      {
+        "label": "Administración",
+        "value": "administracion"
+      },
+      {
+        "label": "Auditoría",
+        "value": "auditoria"
+      },
+      {
+        "label": "Constultoría",
+        "value": "constultoria"
+      },
+      {
+        "label": "Dirección y gerencia",
+        "value": "direccion-y-gerencia"
+      },
+      {
+        "label": "Facturación, cobros y pagos",
+        "value": "facturacion-cobros-y-pagos"
+      },
+      {
+        "label": "Finanzas y contabilidad",
+        "value": "finanzas-y-contabilidad"
+      },
+      {
+        "label": "Negociación y contratación",
+        "value": "negociacion-y-contratacion"
+      },
+      {
+        "label": "Operaciones societarias",
+        "value": "operaciones-societarias"
+      },
+      {
+        "label": "Organización de la empresa",
+        "value": "organizacion-de-la-empresa"
+      },
+      {
+        "label": "Recepción",
+        "value": "recepcion"
+      },
+      {
+        "label": "Secretariado",
+        "value": "secretariado"
+      }
+    ]
+  },
+  {
+    "label": "Atención a los clientes",
+    "value": "atencion-a-los-clientes",
+    "subcategories": [
+      {
+        "label": "Atención al cliente",
+        "value": "atencion-al-cliente"
+      },
+      {
+        "label": "Promoción y ferias",
+        "value": "promocion-y-ferias"
+      }
+    ]
+  },
+  {
+    "label": "Calidad, producción e I+D",
+    "value": "calidad-produccion-e-i+d",
+    "subcategories": [
+      {
+        "label": "Certificación de calidad",
+        "value": "certificacion-de-calidad"
+      },
+      {
+        "label": "Gestión de calidad",
+        "value": "gestion-de-calidad"
+      },
+      {
+        "label": "Gestión de proyectos",
+        "value": "gestion-de-proyectos"
+      },
+      {
+        "label": "Investigación y desarrollo",
+        "value": "investigacion-y-desarrollo"
+      },
+      {
+        "label": "Mantenimiento",
+        "value": "mantenimiento"
+      },
+      {
+        "label": "Medio ambiente",
+        "value": "medio-ambiente"
+      },
+      {
+        "label": "Metrología",
+        "value": "metrologia"
+      },
+      {
+        "label": "Operaciones",
+        "value": "operaciones"
+      }
+    ]
+  },
+  {
+    "label": "Comercial y ventas",
+    "value": "comercial-y-ventas",
+    "subcategories": [
+      {
+        "label": "Agente comercial",
+        "value": "agente-comercial"
+      },
+      {
+        "label": "Comercial",
+        "value": "comercial"
+      },
+      {
+        "label": "Comercio exterior",
+        "value": "comercio-exterior"
+      },
+      {
+        "label": "Gran cuenta",
+        "value": "gran-cuenta"
+      },
+      {
+        "label": "Televenta y marketing",
+        "value": "televenta-y-marketing"
+      }
+    ]
+  },
+  {
+    "label": "Compras, logística y almacén",
+    "value": "compras-logistica-y-almacen",
+    "subcategories": [
+      {
+        "label": "Almacén",
+        "value": "almacen"
+      },
+      {
+        "label": "Compras y aprovisionamiento",
+        "value": "compras-y-aprovisionamiento"
+      },
+      {
+        "label": "Distribución y logística",
+        "value": "distribucion-y-logistica"
+      }
+    ]
+  },
+  {
+    "label": "Diseño y artes gráficas",
+    "value": "diseno-y-artes-graficas",
+    "subcategories": [
+      {
+        "label": "Creación audiovisual",
+        "value": "creacion-audiovisual"
+      },
+      {
+        "label": "Diseño gráfico",
+        "value": "diseno-grafico"
+      },
+      {
+        "label": "Diseño industrial",
+        "value": "diseno-industrial"
+      },
+      {
+        "label": "Diseño web",
+        "value": "diseno-web"
+      },
+      {
+        "label": "Editorial e imprenta",
+        "value": "editorial-e-imprenta"
+      },
+      {
+        "label": "Moda y confección",
+        "value": "moda-y-confeccion"
+      }
+    ]
+  },
+  {
+    "label": "Educación y formación",
+    "value": "educacion-y-formacion",
+    "subcategories": [
+      {
+        "label": "Educación especial",
+        "value": "educacion-especial"
+      },
+      {
+        "label": "Educación social",
+        "value": "educacion-social"
+      },
+      {
+        "label": "Enseñanza",
+        "value": "ensenanza"
+      },
+      {
+        "label": "Gestión de centros educativos",
+        "value": "gestion-de-centros-educativos"
+      },
+      {
+        "label": "Pedagogía",
+        "value": "pedagogia"
+      },
+      {
+        "label": "Puericultura",
+        "value": "puericultura"
+      }
+    ]
+  },
+  {
+    "label": "Finanzas y banca",
+    "value": "finanzas-y-banca",
+    "subcategories": [
+      {
+        "label": "Banca empresarial",
+        "value": "banca-empresarial"
+      },
+      {
+        "label": "Banca privada",
+        "value": "banca-privada"
+      },
+      {
+        "label": "Bolsa, valores e inversión",
+        "value": "bolsa-valores-e-inversion"
+      },
+      {
+        "label": "Productos y servicios bancarios",
+        "value": "productos-y-servicios-bancarios"
+      },
+      {
+        "label": "Seguros",
+        "value": "seguros"
+      },
+      {
+        "label": "Criptofinanzas",
+        "value": "criptofinanzas"
+      }
+    ]
+  },
+  {
+    "label": "Informática y telecomunicaciones",
+    "value": "informatica-y-telecomunicaciones",
+    "subcategories": [
+      {
+        "label": "Administración de bases de datos",
+        "value": "administracion-de-bases-de-datos"
+      },
+      {
+        "label": "Análisis",
+        "value": "analisis"
+      },
+      {
+        "label": "Arquitectura",
+        "value": "arquitectura"
+      },
+      {
+        "label": "Calidad",
+        "value": "calidad"
+      },
+      {
+        "label": "ERP, CRM, Business Intelligence",
+        "value": "erp-crm-business-intelligence"
+      },
+      {
+        "label": "Gestión de proyectos",
+        "value": "gestion-de-proyectos"
+      },
+      {
+        "label": "Hardware, redes y seguridad",
+        "value": "hardware-redes-y-seguridad"
+      },
+      {
+        "label": "Helpdesk",
+        "value": "helpdesk"
+      },
+      {
+        "label": "Programación",
+        "value": "programacion"
+      },
+      {
+        "label": "Sistemas",
+        "value": "sistemas"
+      },
+      {
+        "label": "Telecomunicaciones",
+        "value": "telecomunicaciones"
+      }
+    ]
+  },
+  {
+    "label": "Ingenieros y técnicos",
+    "value": "ingenieros-y-tecnicos",
+    "subcategories": [
+      {
+        "label": "Aeronáutico",
+        "value": "aeronautico"
+      },
+      {
+        "label": "Agrónomo y montes",
+        "value": "agronomo-y-montes"
+      },
+      {
+        "label": "Electrónica",
+        "value": "electronica"
+      },
+      {
+        "label": "Electrónica y automatización industrial",
+        "value": "electronica-y-automatizacion-industrial"
+      },
+      {
+        "label": "Energías renovables",
+        "value": "energias-renovables"
+      },
+      {
+        "label": "Geología, geodesia y cartografía",
+        "value": "geologia-geodesia-y-cartografia"
+      },
+      {
+        "label": "Industrial",
+        "value": "industrial"
+      },
+      {
+        "label": "Minas",
+        "value": "minas"
+      },
+      {
+        "label": "Naval y oceánico",
+        "value": "naval-y-oceanico"
+      },
+      {
+        "label": "Organización industrial",
+        "value": "organizacion-industrial"
+      },
+      {
+        "label": "Otras ingenierías",
+        "value": "otras-ingenierias"
+      },
+      {
+        "label": "Químico",
+        "value": "quimico"
+      },
+      {
+        "label": "Sistemas de defensa",
+        "value": "sistemas-de-defensa"
+      }
+    ]
+  },
+  {
+    "label": "Inmobiliario y construcción",
+    "value": "inmobiliario-y-construccion",
+    "subcategories": [
+      {
+        "label": "Administración inmobiliaria",
+        "value": "administracion-inmobiliaria"
+      },
+      {
+        "label": "Arquitectura y proyección",
+        "value": "arquitectura-y-proyeccion"
+      },
+      {
+        "label": "Dirección y gestión de obras",
+        "value": "direccion-y-gestion-de-obras"
+      },
+      {
+        "label": "Ingeniería civil y obras públicas",
+        "value": "ingenieria-civil-y-obras-publicas"
+      },
+      {
+        "label": "Ingeniería de materiales",
+        "value": "ingenieria-de-materiales"
+      },
+      {
+        "label": "Interiorismo",
+        "value": "interiorismo"
+      },
+      {
+        "label": "Oficios de la construcción",
+        "value": "oficios-de-la-construccion"
+      }
+    ]
+  },
+  {
+    "label": "Legal",
+    "value": "legal",
+    "subcategories": [
+      {
+        "label": "Derecho civil, penal y constitucional",
+        "value": "derecho-civil-penal-y-constitucional"
+      },
+      {
+        "label": "Derecho internacional",
+        "value": "derecho-internacional"
+      },
+      {
+        "label": "Derecho procesal",
+        "value": "derecho-procesal"
+      },
+      {
+        "label": "Derecho y empresa",
+        "value": "derecho-y-empresa"
+      },
+      {
+        "label": "Notaría y registros",
+        "value": "notaria-y-registros"
+      }
+    ]
+  },
+  {
+    "label": "Marketing y comunicación",
+    "value": "marketing-y-comunicacion",
+    "subcategories": [
+      {
+        "label": "Comunicación corporativa",
+        "value": "comunicacion-corporativa"
+      },
+      {
+        "label": "Desarrollo de marca y producto",
+        "value": "desarrollo-de-marca-y-producto"
+      },
+      {
+        "label": "Investigación de mercados",
+        "value": "investigacion-de-mercados"
+      },
+      {
+        "label": "Marketing",
+        "value": "marketing"
+      },
+      {
+        "label": "Periodismo y edición",
+        "value": "periodismo-y-edicion"
+      },
+      {
+        "label": "Producción",
+        "value": "produccion"
+      },
+      {
+        "label": "Publicidad",
+        "value": "publicidad"
+      },
+      {
+        "label": "RRPP y eventos",
+        "value": "rrpp-y-eventos"
+      },
+      {
+        "label": "Técnicas audiovisuales",
+        "value": "tecnicas-audiovisuales"
+      }
+    ]
+  },
+  {
+    "label": "Profesiones, artes y oficios",
+    "value": "profesiones-artes-y-oficios",
+    "subcategories": [
+      {
+        "label": "Agricultura y jardinería",
+        "value": "agricultura-y-jardineria"
+      },
+      {
+        "label": "Artes interpretativas",
+        "value": "artes-interpretativas"
+      },
+      {
+        "label": "Artes plásticas",
+        "value": "artes-plasticas"
+      },
+      {
+        "label": "Artesanía",
+        "value": "artesania"
+      },
+      {
+        "label": "Automoción",
+        "value": "automocion"
+      },
+      {
+        "label": "Carpintería",
+        "value": "carpinteria"
+      },
+      {
+        "label": "Confección",
+        "value": "confeccion"
+      },
+      {
+        "label": "Consumo y alimentación",
+        "value": "consumo-y-alimentacion"
+      },
+      {
+        "label": "Electricidad",
+        "value": "electricidad"
+      },
+      {
+        "label": "Estética y cosmética",
+        "value": "estetica-y-cosmetica"
+      },
+      {
+        "label": "Fontanería",
+        "value": "fontaneria"
+      },
+      {
+        "label": "Fotografía",
+        "value": "fotografia"
+      },
+      {
+        "label": "Limpieza",
+        "value": "limpieza"
+      },
+      {
+        "label": "Otros oficios",
+        "value": "otros-oficios"
+      },
+      {
+        "label": "Seguridad y vigilancia",
+        "value": "seguridad-y-vigilancia"
+      },
+      {
+        "label": "Traducción e interpretación",
+        "value": "traduccion-e-interpretacion"
+      },
+      {
+        "label": "Transporte",
+        "value": "transporte"
+      }
+    ]
+  },
+  {
+    "label": "Recursos humanos",
+    "value": "recursos-humanos",
+    "subcategories": [
+      {
+        "label": "Formación",
+        "value": "formacion"
+      },
+      {
+        "label": "Prevención de riesgos",
+        "value": "prevencion-de-riesgos"
+      },
+      {
+        "label": "Relaciones laborales",
+        "value": "relaciones-laborales"
+      },
+      {
+        "label": "Selección de personal",
+        "value": "seleccion-de-personal"
+      }
+    ]
+  },
+  {
+    "label": "Sanidad y salud",
+    "value": "sanidad-y-salud",
+    "subcategories": [
+      {
+        "label": "Enfermería",
+        "value": "enfermeria"
+      },
+      {
+        "label": "Farmacia",
+        "value": "farmacia"
+      },
+      {
+        "label": "Medicina especializada",
+        "value": "medicina-especializada"
+      },
+      {
+        "label": "Medicina general",
+        "value": "medicina-general"
+      },
+      {
+        "label": "Medicinas alternativas",
+        "value": "medicinas-alternativas"
+      },
+      {
+        "label": "Odontología",
+        "value": "odontologia"
+      },
+      {
+        "label": "Otras profesiones sanitarias",
+        "value": "otras-profesiones-sanitarias"
+      },
+      {
+        "label": "Psicología",
+        "value": "psicologia"
+      },
+      {
+        "label": "Veterinaria",
+        "value": "veterinaria"
+      }
+    ]
+  },
+  {
+    "label": "Sector farmacéutico",
+    "value": "sector-farmaceutico",
+    "subcategories": [
+      {
+        "label": "Acceso al mercado y relaciones institucionales",
+        "value": "acceso-al-mercado-y-relaciones-institucionales"
+      },
+      {
+        "label": "Asuntos regulatorios",
+        "value": "asuntos-regulatorios"
+      },
+      {
+        "label": "Calidad, produccion e I+D",
+        "value": "calidad-produccion-e-i+d"
+      },
+      {
+        "label": "Comerciales y ventas",
+        "value": "comerciales-y-ventas"
+      },
+      {
+        "label": "Investigación clínica y asuntos médicos",
+        "value": "investigacion-clinica-y-asuntos-medicos"
+      },
+      {
+        "label": "Marketing y comunicación",
+        "value": "marketing-y-comunicacion"
+      }
+    ]
+  },
+  {
+    "label": "Turismo y restauración",
+    "value": "turismo-y-restauracion",
+    "subcategories": [
+      {
+        "label": "Hostelería",
+        "value": "hosteleria"
+      },
+      {
+        "label": "Restauración",
+        "value": "restauracion"
+      },
+      {
+        "label": "Turismo",
+        "value": "turismo"
+      }
+    ]
+  },
+  {
+    "label": "Ventas al detalle",
+    "value": "ventas-al-detalle"
+  },
+  {
+    "label": "Otros",
+    "value": "otros"
+  }
+]
